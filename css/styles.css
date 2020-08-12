@@ -2,7 +2,7 @@ body {
     margin: 0;
     text-align: center;
     font-family: 'Gothic A1', sans-serif;
-    
+    color: #27496d;
 }
 
 h1 {
@@ -24,15 +24,11 @@ h1 {
 }
 
 .middle-container {
-    background-color: cadetblue;
-    width: 200px;
-    height: 200px;
+    background-color: #e1f2fb;
 }
 
 .bottom-container {
     background-color: rgb(149, 220, 223);
-    width: 200px;
-    height: 200px;
 }
 
 .top-cloud {
