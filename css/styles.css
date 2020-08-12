@@ -58,17 +58,19 @@ h3 {
 }
 
 .code-pic {
-    width: 300px;
-    height: 300px;
+    width: 30%;
+    float: left;
+    margin-right: 30px;
 }
 
 .music-pic {
-    width: 300px;
-    height: 300px;
+    width: 30%;
+    float: right;
+    margin-left: 30px;
 }
 
 .skill-row {
-    width: 50%;
+    width: 65%;
     text-align: left;
     margin: 100px auto 100px auto;
     line-height: 2;
@@ -79,8 +81,7 @@ h3 {
 }
 
 .profile-pic {
-    width: 200px;
-    height: 200px;
+    width: 30%;
     padding-top: 50px;
 }
 
