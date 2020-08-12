@@ -3,6 +3,7 @@ body {
     text-align: center;
     font-family: 'Gothic A1', sans-serif;
     color: #27496d;
+    font-size: 20px;
 }
 
 h1 {
@@ -12,23 +13,19 @@ h1 {
     font-size: 80px;
 }
 
-.software-student {
+h2 {
     font-family: 'Courgette', cursive;
+    font-size: 30px;
+}
+
+h3 {
+    font-family: 'Gothic A1', sans-serif;
     font-size: 20px;
 }
 
-.top-container {
-    background-color: #beebe9;
-    position: relative;
-    padding-top: 100px;
-}
-
-.middle-container {
-    background-color: #e1f2fb;
-}
-
-.bottom-container {
-    background-color: rgb(149, 220, 223);
+.software-student {
+    font-family: 'Courgette', cursive;
+    font-size: 20px;
 }
 
 .top-cloud {
@@ -41,6 +38,59 @@ h1 {
 .bottom-cloud {
     position: absolute;
     top: 300px;
-    left: 250px;
+    left: 200px;
 }
+
+.top-container {
+    background-color: #beebe9;
+    position: relative;
+    padding-top: 100px;
+}
+
+.profile {
+    width: 50%;
+    margin: 0px auto 100px auto;
+    line-height: 2;
+}
+
+.middle-container {
+    background-color: #e1f2fb;
+}
+
+.code-pic {
+    width: 300px;
+    height: 300px;
+}
+
+.music-pic {
+    width: 300px;
+    height: 300px;
+}
+
+.skill-row {
+    width: 50%;
+    text-align: left;
+    margin: 100px auto 100px auto;
+    line-height: 2;
+}
+
+.bottom-container {
+    background-color: rgb(149, 220, 223);
+}
+
+.profile-pic {
+    width: 200px;
+    height: 200px;
+    padding-top: 50px;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #bbe1fa;
+    border-width: 5px;
+    width: 5%;
+}
+
+
 
