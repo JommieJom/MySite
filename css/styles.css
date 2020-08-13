@@ -47,6 +47,11 @@ h3 {
     padding-top: 100px;
 }
 
+.profile-pic {
+    width: 30%;
+    padding-top: 50px;
+}
+
 .profile {
     width: 50%;
     margin: 0px auto 100px auto;
@@ -55,6 +60,7 @@ h3 {
 
 .middle-container {
     background-color: #e1f2fb;
+    padding-bottom: 100px;
 }
 
 .code-pic {
@@ -76,14 +82,23 @@ h3 {
     line-height: 2;
 }
 
-.bottom-container {
-    background-color: rgb(149, 220, 223);
+.contact-me {
+    width: 65%;
+    margin: 100px auto 0 auto;
+    text-align: left;
 }
 
-.profile-pic {
-    width: 30%;
-    padding-top: 50px;
+.git-pic {
+    width: 20%;
+    float: left;
 }
+
+.bottom-container {
+    background-color: rgb(149, 220, 223);
+    padding-top: 100px;
+}
+
+
 
 hr {
     border-style: none;
